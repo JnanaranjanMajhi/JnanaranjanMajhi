@@ -1,37 +1,48 @@
 # Hi there! 👋 Welcome to My GitHub Profile  
 
-I'm a **3rd-year student at C V Raman Global University**, exploring the world of technology, programming, and development. Here's a bit about me:  
-
-## 💻 About Me  
-- 🎓 Pursuing my bachelor's degree with good academic qualifications (CGPA: 7.5).  
-- 🌟 Certified in **Artificial Intelligence Primer** by Infosys.  
-- 🚀 Skilled in **Android App Development**, **Kotlin**, and **Web Development** (HTML & CSS).  
-
-## 🧑‍💻 Current Projects  
-- 🔢 Building a **To- Do -List** as part of my internship.  
-- 🔐 Researching and developing solutions for **anomaly detection in cybersecurity** using machine learning.  
-- 📱 Creating Android apps like **real-time ticket booking**.  
-
-## ⚙️ Technologies I Use  
-- **Languages**: Python, Java, Kotlin, C, SQL  
-- **Frameworks/Tools**: Android Studio, Visual Studio Code  
-- **Other Skills**: Machine Learning, Cryptography, UI/UX Design  
-
-## 🌱 Learning Goals  
-- Enhance my knowledge of **green technologies**, especially in **e-waste recycling**.  
-- Master **SymPy** for cryptographic implementations.  
-- Dive deeper into **Machine Learning for translation tasks**.  
-
-## 🏆 Achievements  
-- 📜 Completed a **case study on the Theory of Computation** for secure OS-level access control mechanisms.  
-- 🎶 Developed a **C program for random music playback** using multi-threading.
-- 🔐 Developed **Anomaly Detection in Cybersecurity** Using different Machine Learning Techniques.
-
-## 📫 Connect With Me  
-- 📧 Email: jnanaranjanmajhi82@gmail.com  
-- 💼 LinkedIn: [Jnanaranjan Majhi](https://www.linkedin.com/in/jnanaranjan-majhi-b8519626a)  
-- 🌐 Portfolio: [Your Portfolio Link](#)
+I’m **Jnanaranjan Majhi**, a passionate and driven **3rd-year student at C V Raman Global University**, exploring the exciting world of technology, programming, and innovation. My journey is fueled by a desire to build impactful solutions and continuously evolve as a tech enthusiast. 🚀  
 
 ---
 
-Thank you for visiting my profile! Feel free to check out my repositories and connect with me. Let's build something amazing together! 😊
+## 💻 About Me  
+- 🎓 Pursuing a bachelor's degree with strong academic credentials (**CGPA: 7.87**).  
+- 🌟 Certified in **Artificial Intelligence Primer** by Infosys, showcasing my foundation in cutting-edge technologies.  
+- 💡 Skilled in **Android App Development**, **Kotlin**, and **Web Development** (HTML & CSS).  
+
+---
+
+## 🧑‍💻 Current Projects  
+- ✅ Crafting a feature-rich **To-Do List Application** as part of my internship, focusing on user experience and functionality.  
+- 🔐 Researching and implementing solutions for **Anomaly Detection in Cybersecurity**, leveraging **machine learning** to enhance security.  
+- 📱 Designing Android apps like **Real-Time Ticket Booking**, combining efficient algorithms with seamless UI design.  
+
+---
+
+## ⚙️ Technologies I Use  
+- **Languages**: Python, Java, Kotlin, C, SQL  
+- **Frameworks & Tools**: Android Studio, Visual Studio Code, SymPy  
+- **Core Skills**: Machine Learning, Cryptography, UI/UX Design, Problem Solving  
+
+---
+
+## 🌱 Learning Goals  
+- 🌍 Deepen my knowledge of **green technologies**, focusing on **e-waste recycling** to drive sustainable innovation.  
+- 🔢 Master the use of **SymPy** for cryptographic solutions in real-world applications.  
+- 🌐 Explore advanced **Machine Learning Techniques** for natural language translation tasks.  
+
+---
+
+## 🏆 Achievements  
+- 🛡️ **Anomaly Detection in Cybersecurity**: Developed robust detection systems using advanced **machine learning techniques** and real-world datasets like **CICIDS 2017**.  
+- 🎶 Built a dynamic **C program for random music playback** using multi-threading to enhance user interaction.  
+
+---
+
+## 📫 Connect With Me  
+- 📧 **Email**: [jnanaranjanmajhi82@gmail.com](mailto:jnanaranjanmajhi82@gmail.com)  
+- 💼 **LinkedIn**: [Jnanaranjan Majhi](https://www.linkedin.com/in/jnanaranjan-majhi-b8519626a)  
+- 🌐 **Portfolio**: [Coming Soon!](#)  
+
+---
+
+✨ **Thank you for visiting my profile!** Feel free to explore my repositories, connect with me, and collaborate on exciting projects. Together, let’s innovate and create impactful solutions for the world. 💡
