@@ -29,7 +29,7 @@ I'm a **3rd-year student at C V Raman Global University**, exploring the world o
 
 ## 📫 Connect With Me  
 - 📧 Email: jnanaranjanmajhi82@gmail.com  
-- 💼 LinkedIn: [Jnanaranjan Majhi](https://www.linkedin.com/in/jnanaranjan-majhi-208498255) 
+- 💼 LinkedIn: [Jnanaranjan Majhi](www.linkedin.com/in/jnanaranjan-majhi-b8519626a) 
 
 ---
 
