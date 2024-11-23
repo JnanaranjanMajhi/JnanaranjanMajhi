@@ -8,9 +8,9 @@ I'm a **3rd-year student at C V Raman Global University**, exploring the world o
 - 🚀 Skilled in **Android App Development**, **Kotlin**, and **Web Development** (HTML & CSS).  
 
 ## 🧑‍💻 Current Projects  
-- 🔢 Building a **calculator program** as part of my internship.  
+- 🔢 Building a **To- Do -List** as part of my internship.  
 - 🔐 Researching and developing solutions for **anomaly detection in cybersecurity** using machine learning.  
-- 📱 Creating Android apps like **real-time ticket booking** and **anomaly detection**.  
+- 📱 Creating Android apps like **real-time ticket booking**.  
 
 ## ⚙️ Technologies I Use  
 - **Languages**: Python, Java, Kotlin, C, SQL  
@@ -20,15 +20,17 @@ I'm a **3rd-year student at C V Raman Global University**, exploring the world o
 ## 🌱 Learning Goals  
 - Enhance my knowledge of **green technologies**, especially in **e-waste recycling**.  
 - Master **SymPy** for cryptographic implementations.  
-- Dive deeper into **machine learning for translation tasks**.  
+- Dive deeper into **Machine Learning for translation tasks**.  
 
 ## 🏆 Achievements  
-- 📜 Completed a **Anomaly Detection In Cyber Security** for secure OS-level access control mechanisms.  
-- 🎶 Developed a **C program for random music playback** using multi-threading.  
+- 📜 Completed a **case study on the Theory of Computation** for secure OS-level access control mechanisms.  
+- 🎶 Developed a **C program for random music playback** using multi-threading.
+- 🔐 Developed **Anomaly Detection in Cybersecurity** Using different Machine Learning Techniques.
 
 ## 📫 Connect With Me  
 - 📧 Email: jnanaranjanmajhi82@gmail.com  
-- 💼 LinkedIn: [Jnanaranjan Majhi]
+- 💼 LinkedIn: [Jnanaranjan Majhi](https://www.linkedin.com/in/jnanaranjan-majhi-b8519626a)  
+- 🌐 Portfolio: [Your Portfolio Link](#)
 
 ---
 
