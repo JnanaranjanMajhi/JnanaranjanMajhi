@@ -5,7 +5,6 @@ I'm a **3rd-year student at C V Raman Global University**, exploring the world o
 ## 💻 About Me  
 - 🎓 Pursuing my bachelor's degree with good academic qualifications (CGPA: 7.5).  
 - 🌟 Certified in **Artificial Intelligence Primer** by Infosys.  
-- 🛠 Currently interning as a **Python Programmer** at Codesoft.  
 - 🚀 Skilled in **Android App Development**, **Kotlin**, and **Web Development** (HTML & CSS).  
 
 ## 🧑‍💻 Current Projects  
@@ -24,12 +23,12 @@ I'm a **3rd-year student at C V Raman Global University**, exploring the world o
 - Dive deeper into **machine learning for translation tasks**.  
 
 ## 🏆 Achievements  
-- 📜 Completed a **case study on the Theory of Computation** for secure OS-level access control mechanisms.  
+- 📜 Completed a **Anomaly Detection In Cyber Security** for secure OS-level access control mechanisms.  
 - 🎶 Developed a **C program for random music playback** using multi-threading.  
 
 ## 📫 Connect With Me  
 - 📧 Email: jnanaranjanmajhi82@gmail.com  
-- 💼 LinkedIn: [Jnanaranjan Majhi](www.linkedin.com/in/jnanaranjan-majhi-b8519626a) 
+- 💼 LinkedIn: [Jnanaranjan Majhi]
 
 ---
 
