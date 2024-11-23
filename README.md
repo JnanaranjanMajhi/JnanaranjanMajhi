@@ -9,8 +9,8 @@ Currently, I have a **CGPA of 7.87**, reflecting my commitment to academic excel
 ## 🔍 Current Focus
 I’m currently working on various internship projects and personal learning initiatives, including:
 
-- **To-Do List Application** 📱: Developing a feature-rich Android application with a focus on usability and functionality. [Check out the repository here!](https://github.com/JnanaranjanMajhi/To_Do_List)
-- **Anomaly Detection in Cybersecurity** 🔐: Implementing machine learning algorithms to detect security threats.  [Check out the repository here!](https://github.com/JnanaranjanMajhi/To_Do_List)
+- **To-Do List Application** 📱: Developing a feature-rich Android application with a focus on usability and functionality. [Repository](https://github.com/JnanaranjanMajhi/To_Do_List)
+- **Anomaly Detection in Cybersecurity** 🔐: Implementing machine learning algorithms to detect security threats.  [Repository](https://github.com/JnanaranjanMajhi/Anomaly-Detection-In-Cyber-Security-)
 ---
 
 ## 🧑‍💻 Skills & Technologies
