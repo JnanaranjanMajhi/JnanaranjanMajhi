@@ -1,17 +1,54 @@
-<h1 align="center">Hi 👋, I'm Jnanaranjan Majhi</h1>
-<h3 align="center">I’m Jnanaranjan Majhi, a 3rd-year Computer Science student at C V Raman Global University. Passionate about technology, programming, and innovation, I aim to create impactful solutions and continuously evolve in the ever-changing tech landscape. 🚀 Currently, I have a CGPA of 8.01, reflecting my commitment to academic excellence.</h3>
+# Welcome to My GitHub Profile! 👋More actions
 
-- 🔭 I’m currently working on [To-Do List Application](https://github.com/JnanaranjanMajhi/To_Do_List)
+## About Me  
+I’m **Jnanaranjan Majhi**, a **3rd-year Computer Science student** at **C V Raman Global University**. Passionate about technology, programming, and innovation, I aim to create impactful solutions and continuously evolve in the ever-changing tech landscape. 🚀
+Currently, I have a **CGPA of 8.01**, reflecting my commitment to academic excellence.
 
-- 👯 I’m looking to collaborate on [Anomaly Detection in Cybersecurity](https://github.com/JnanaranjanMajhi/Anomaly-Detection-In-Cyber-Security-)
+---
 
-- 📫 How to reach me **jnanaranjanmajhi82@gmail.com**
+## 🔍 Current Focus
+I’m currently working on various internship projects and personal learning initiatives, including:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jnanaranjan-majhi-b8519626a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jnanaranjan-majhi-b8519626a/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/jnana_ranjan_majhi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/jnana_ranjan_majhi/" height="30" width="40" /></a>
-</p>
+- **To-Do List Application** 📱: Developing a feature-rich Android application with a focus on usability and functionality. [Repository](https://github.com/JnanaranjanMajhi/To_Do_List)
+- **Anomaly Detection in Cybersecurity** 🔐: Implementing machine learning algorithms to detect security threats.  [Repository](https://github.com/JnanaranjanMajhi/Anomaly-Detection-In-Cyber-Security-)
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## 🧑‍💻 Skills & Technologies
+Here are the technologies and tools I am proficient in:
+
+- **Programming Languages**: Python, Java, Kotlin, C, SQL
+- **Web Development**: HTML, CSS
+- **Mobile Development**: Android Studio, Kotlin
+- **Tools & Frameworks**: Visual Studio Code, MongoDB, SymPy
+- **Core Skills**: Machine Learning 🤖, Cryptography 🔐, UI/UX Design 🎨, Database Management 💾
+
+---
+
+## 🌱 Learning Goals
+I am focused on continuous learning and improving my skills. My current goals include:
+
+- Diving deeper into **green technologies** 🌍 and **e-waste recycling** ♻️ to promote sustainable innovation.
+- Mastering **SymPy** for cryptographic applications in real-world scenarios 🔒.
+- Exploring **Advanced Machine Learning Techniques** for complex tasks like **Natural Language Translation** 🌐.
+
+---
+
+## 🏆 Achievements
+Some of my notable achievements include:
+
+- **Anomaly Detection in Cybersecurity** 🔍: Developed machine learning-based solutions for real-time anomaly detection using **CICIDS 2017** dataset.
+- **C Music Playback Program** 🎶: Built a dynamic program in C using multi-threading for random music playback with an engaging user experience.
+- **MongoDB Developer's Toolkit** 📚: Successfully completed the **MongoDB Developer's Toolkit** course by GeeksforGeeks, enhancing my database management skills.
+
+---
+
+## 📫 Connect With Me
+Feel free to reach out or connect with me through any of the platforms below:
+
+- 📧 **Email**: [jnanaranjanmajhi82@gmail.com](mailto:jnanaranjanmajhi82@gmail.com)
+- 💼 **LinkedIn**: [Jnanaranjan Majhi](https://www.linkedin.com/in/jnanaranjan-majhi-b8519626a)
+- 🌐 **Portfolio**: [Coming Soon!](#)
+
+---
+
+Thank you for visiting my profile! Explore my repositories, contribute to projects, and let's collaborate on creating innovative solutions. 💡
