@@ -42,6 +42,13 @@ Some of my notable achievements include:
 
 ---
 
+## 📫 Connect With MeAdd commentMore actions
+Feel free to reach out or connect with me through any of the platforms below:
+
+- 📧 **Email**: [jnanaranjanmajhi82@gmail.com](mailto:jnanaranjanmajhi82@gmail.com)
+- 💼 **LinkedIn**: [Jnanaranjan Majhi](https://www.linkedin.com/in/jnanaranjan-majhi-b8519626a)
+- 🌐 **Portfolio**: [Coming Soon!](#)
+
 ## 📫 Connect With Me
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jnanaranjan-majhi-b8519626a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jnanaranjan-majhi-b8519626a/" height="30" width="40" /></a>
