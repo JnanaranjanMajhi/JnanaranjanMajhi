@@ -43,12 +43,9 @@ Some of my notable achievements include:
 ---
 
 ## 📫 Connect With Me
-Feel free to reach out or connect with me through any of the platforms below:
-
-- 📧 **Email**: [jnanaranjanmajhi82@gmail.com](mailto:jnanaranjanmajhi82@gmail.com)
-- 💼 **LinkedIn**: [Jnanaranjan Majhi](https://www.linkedin.com/in/jnanaranjan-majhi-b8519626a)
-- 🌐 **Portfolio**: [Coming Soon!](#)
-
----
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/jnanaranjan-majhi-b8519626a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jnanaranjan-majhi-b8519626a/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/jnana_ranjan_majhi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/jnana_ranjan_majhi/" height="30" width="40" /></a>
+</p>
 
 Thank you for visiting my profile! Explore my repositories, contribute to projects, and let's collaborate on creating innovative solutions. 💡
