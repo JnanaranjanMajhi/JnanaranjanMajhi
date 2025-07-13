@@ -2,7 +2,7 @@
 
 ## About Me  
 I’m **Jnanaranjan Majhi**, a **3rd-year Computer Science student** at **C V Raman Global University**. Passionate about technology, programming, and innovation, I aim to create impactful solutions and continuously evolve in the ever-changing tech landscape. 🚀
-Currently, I have a **CGPA of 8.01**, reflecting my commitment to academic excellence.
+Currently, I have a **CGPA of 8.08**, reflecting my commitment to academic excellence.
 
 ---
 
@@ -47,6 +47,6 @@ Feel free to reach out or connect with me through any of the platforms below:
 
 - 📧 **Email**: [jnanaranjanmajhi82@gmail.com](mailto:jnanaranjanmajhi82@gmail.com)
 - 💼 **LinkedIn**: [Jnanaranjan Majhi](https://www.linkedin.com/in/jnanaranjan-majhi-b8519626a)
-- 🌐 **Portfolio**: [Coming Soon!](#)
+- 🌐 **Portfolio**: [Jnanaranjan Majhi](https://jnanaranjanmajhi.github.io/Portfolio/)
 
 Thank you for visiting my profile! Explore my repositories, contribute to projects, and let's collaborate on creating innovative solutions. 💡
