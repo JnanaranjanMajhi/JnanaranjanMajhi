@@ -1,7 +1,7 @@
-# Welcome to My GitHub Profile! 👋More actions
+# Welcome to My GitHub Profile!
 
 ## About Me  
-I’m **Jnanaranjan Majhi**, a **3rd-year Computer Science student** at **C V Raman Global University**. Passionate about technology, programming, and innovation, I aim to create impactful solutions and continuously evolve in the ever-changing tech landscape. 🚀
+I’m **Jnanaranjan Majhi**, a **4th-year Computer Science student** at **C V Raman Global University**. Passionate about technology, programming, and innovation, I aim to create impactful solutions and continuously evolve in the ever-changing tech landscape. 🚀
 Currently, I have a **CGPA of 8.08**, reflecting my commitment to academic excellence.
 
 ---
@@ -11,6 +11,7 @@ I’m currently working on various internship projects and personal learning ini
 
 - **To-Do List Application** 📱: Developing a feature-rich Android application with a focus on usability and functionality. [Repository](https://github.com/JnanaranjanMajhi/To_Do_List)
 - **Anomaly Detection in Cybersecurity** 🔐: Implementing machine learning algorithms to detect security threats.  [Repository](https://github.com/JnanaranjanMajhi/Anomaly-Detection-In-Cyber-Security-)
+- **C Music Playback Program** 🎶: Built a dynamic program in C using multi-threading for random music playback with an engaging user experience. [Repository](https://github.com/JnanaranjanMajhi/Music-Playback)
 ---
 
 ## 🧑‍💻 Skills & Technologies
