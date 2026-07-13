@@ -2,16 +2,11 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Jnanaranjan Majhi
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:6C63FF,100:8E2DE2&height=220&section=header&text=Jnanaranjan%20Majhi&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Software%20Developer%20%7C%20Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descSize=17&descAlignY=58&animation=fadeIn" width="100%" />
 
-### Software Developer • Full-Stack Developer • AI/ML Enthusiast
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=850&lines=B.Tech+Graduate+in+CSIT;Software+%26+Full-Stack+Developer;Building+Modern+Web+Applications;Exploring+AI+%26+Machine+Learning;Turning+Ideas+into+Real-World+Solutions" alt="Typing Animation" />
 
-<img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=800&lines=B.Tech+Graduate+in+CSIT;Software+%26+Full-Stack+Developer;Building+Modern+Web+Applications;AI+%26+Machine+Learning+Enthusiast;Turning+Ideas+into+Real-World+Solutions"
-alt="Typing Animation"
-/>
-
-<br>
+<br><br>
 
 <a href="https://www.linkedin.com/in/jnanaranjan-majhi-b8519626a">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -37,96 +32,35 @@ alt="Typing Animation"
 
 ```javascript
 const jnanaranjan = {
-    name: "Jnanaranjan Majhi",
+    role: "Software & Full-Stack Developer",
+    education: "B.Tech in CSIT",
 
-    education: {
-        degree: "B.Tech",
-        branch: "Computer Science & Information Technology",
-        university: "C V Raman Global University"
-    },
-
-    roles: [
-        "Software Developer",
-        "Full-Stack Developer",
-        "AI/ML Enthusiast"
+    skills: [
+        "Java",
+        "Python",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "AI/ML"
     ],
-
-    technicalSkills: {
-        languages: [
-            "Python",
-            "Java",
-            "JavaScript",
-            "C",
-            "Kotlin",
-            "SQL"
-        ],
-
-        frontend: [
-            "React.js",
-            "HTML5",
-            "CSS3",
-            "Tailwind CSS"
-        ],
-
-        backend: [
-            "Node.js",
-            "Express.js",
-            "REST APIs"
-        ],
-
-        databases: [
-            "MongoDB",
-            "MySQL"
-        ],
-
-        aiAndData: [
-            "Machine Learning",
-            "Scikit-learn",
-            "XGBoost",
-            "Pandas",
-            "NumPy"
-        ]
-    },
 
     currentlyLearning: [
         "Data Structures & Algorithms",
         "System Design",
-        "Advanced Full-Stack Development"
+        "Backend Development"
     ],
 
     openToWork: true,
 
-    goal:
-        "Build scalable technology that solves real-world problems"
+    goal: "Build scalable solutions for real-world problems"
 };
 ```
 
-* 🎓 B.Tech graduate in **Computer Science & Information Technology** from **C V Raman Global University**
-* 💻 Passionate about **Software Development, Full-Stack Development, and AI/ML**
-* 🌐 Building modern, responsive, and scalable web applications
-* 🤖 Experienced in developing machine-learning and data-driven solutions
-* 🧬 Developed an ensemble machine-learning project for **GLP-1 drug discovery**
-* 🏫 Built and deployed a full-stack **OAV School Management System**
-* 📊 Developed the AI-powered **GrowEasy LeadFlow AI** application
-* 🌱 Currently strengthening my **DSA, System Design, React, and Backend Development** skills
+* 🎓 B.Tech graduate in **Computer Science & Information Technology**
+* 💻 Building modern **full-stack applications** and **AI/ML solutions**
+* 🚀 Developed **OAV School Management**, **GrowEasy LeadFlow AI**, and a **GLP-1 Drug Discovery model**
+* 🌱 Strengthening my skills in **DSA, System Design, and Backend Development**
 * 💼 Open to **Software Developer, Full-Stack Developer, and AI/ML opportunities**
-* 📫 Reach me at **[jnanaranjanmajhi82@gmail.com](mailto:jnanaranjanmajhi82@gmail.com)**
-
----
-
-<!-- ==================== STATUS ==================== -->
-
-## 🚀 Current Focus
-
-<div align="center">
-
-|       💻 Building       |          🌱 Learning         |          🤝 Open To         |
-| :---------------------: | :--------------------------: | :-------------------------: |
-| Full-Stack Applications | Data Structures & Algorithms |   Software Developer Roles  |
-|      AI/ML Projects     |         System Design        |   Full-Stack Opportunities  |
-|   Real-World Solutions  |     Backend Architecture     | Internships & Collaboration |
-
-</div>
 
 ---
 
@@ -134,308 +68,270 @@ const jnanaranjan = {
 
 # 🚀 Featured Projects
 
-> Click a project title to expand and explore its details.
+<table>
+<tr>
 
-<details open>
+<td width="50%" valign="top">
 
-<summary><b>🏫 OAV School Management System</b></summary>
+<h3 align="center">🏫 OAV School Management</h3>
 
-<br>
+<p align="center">
+A secure and responsive full-stack platform designed to simplify school administration, communication, academic services, and access to important information.
+</p>
 
-A modern, secure, and responsive full-stack school-management platform designed to simplify academic administration, communication, student services, and access to important school information.
+<p align="center">
 
-### ✨ Key Features
+`React` `Node.js` `Express.js` `MongoDB`
 
-* 🔐 Secure user authentication
-* 👨‍🎓 Student and academic information management
-* 📢 Notices and announcements
-* 📧 Email communication
-* 📱 SMS integration
-* ☁️ Cloud media management
-* 📄 PDF report generation
-* 📊 Excel data support
-* 🗺️ Google Maps integration
-* 📱 Responsive user interface
+</p>
 
-### 🛠️ Technology Stack
-
-`React.js` `JavaScript` `Vite` `Node.js` `Express.js` `MongoDB` `JWT`
-
-<br>
+<p align="center">
 
 <a href="https://github.com/JnanaranjanMajhi/OAV-School-Management">
-<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="OAV Repository">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="https://oav-school.vercel.app">
-<img src="https://img.shields.io/badge/Launch_Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="OAV Live Demo">
+<img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 
-</details>
+</p>
 
-<br>
+</td>
 
-<details open>
+<td width="50%" valign="top">
 
-<summary><b>📊 GrowEasy LeadFlow AI</b></summary>
+<h3 align="center">📊 GrowEasy LeadFlow AI</h3>
 
-<br>
+<p align="center">
+An AI-powered CSV lead-import application with intelligent column mapping, data validation, preview, and a streamlined import workflow.
+</p>
 
-An AI-powered lead-import and data-mapping application designed to simplify CSV processing, automatically map lead fields, validate imported information, and provide a smooth lead-management workflow.
+<p align="center">
 
-### ✨ Key Features
+`React` `Vite` `JavaScript` `AI`
 
-* 📂 Drag-and-drop CSV file upload
-* 👀 CSV data preview
-* 🤖 AI-assisted column mapping
-* 🔍 Intelligent data validation
-* 📊 Step-by-step import workflow
-* 📈 Organized lead-processing results
-* 📱 Responsive and user-friendly interface
+</p>
 
-### 🛠️ Technology Stack
-
-`React.js` `JavaScript` `Vite` `AI Integration` `CSV Processing`
-
-<br>
+<p align="center">
 
 <a href="https://github.com/JnanaranjanMajhi/GrowEasy-LeadFlow-AI">
-<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GrowEasy Repository">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="https://grow-easy-lead-flow-ai.vercel.app/">
-<img src="https://img.shields.io/badge/Launch_Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="GrowEasy Live Demo">
+<img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 
-</details>
+</p>
 
-<br>
+</td>
 
-<details>
+</tr>
 
-<summary><b>🧬 QSAR-Based GLP-1 Drug Discovery</b></summary>
+<tr>
 
-<br>
+<td width="50%" valign="top">
 
-An AI/ML-based drug-discovery project developed to predict the biological activity of chemical compounds targeting the **GLP-1 receptor** using molecular descriptors, fingerprints, regression models, classification models, and ensemble machine learning.
+<h3 align="center">🧬 GLP-1 Drug Discovery</h3>
 
-### ✨ Key Features
+<p align="center">
+An ensemble machine-learning QSAR project for predicting the biological activity of compounds targeting the GLP-1 receptor.
+</p>
 
-* 🧪 ChEMBL molecular dataset
-* 🧬 Molecular descriptor generation
-* 🔬 RDKit and PaDEL descriptors
-* 📊 Data preprocessing and feature selection
-* 🤖 Regression and classification models
-* 🧠 Ensemble machine-learning techniques
-* 📈 Model evaluation and comparison
-* 💊 Biological-activity prediction
+<p align="center">
 
-### 🛠️ Technology Stack
+`Python` `Scikit-learn` `XGBoost` `RDKit`
 
-`Python` `Machine Learning` `Scikit-learn` `XGBoost` `RDKit` `PaDEL` `Pandas`
+</p>
 
-<br>
+<p align="center">
 
 <a href="https://github.com/JnanaranjanMajhi/QSAR_BASED_DRUG_DISCOVERY">
-<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="QSAR Repository">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-</details>
+</p>
 
-<br>
+</td>
 
-<details>
+<td width="50%" valign="top">
 
-<summary><b>🔐 Anomaly Detection in Cybersecurity</b></summary>
+<h3 align="center">🔐 Cybersecurity Anomaly Detection</h3>
 
-<br>
+<p align="center">
+A machine-learning solution for detecting unusual network behaviour and identifying potential attacks using the CICIDS 2017 dataset.
+</p>
 
-A machine-learning project developed to detect unusual network behavior and identify potential cybersecurity attacks using the **CICIDS 2017 dataset**.
+<p align="center">
 
-### ✨ Key Features
+`Python` `Machine Learning` `Pandas`
 
-* 🔍 Network-traffic analysis
-* 🧹 Data preprocessing
-* 📊 Exploratory data analysis
-* 🤖 Machine-learning classification
-* ⚠️ Cyberattack identification
-* 📈 Model evaluation
+</p>
 
-### 🛠️ Technology Stack
-
-`Python` `Machine Learning` `Scikit-learn` `Pandas` `NumPy` `Cybersecurity`
-
-<br>
+<p align="center">
 
 <a href="https://github.com/JnanaranjanMajhi/Anomaly-Detection-In-Cyber-Security-">
-<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Cybersecurity Repository">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-</details>
+</p>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 <!-- ==================== SKILLS ==================== -->
 
-# 🛠️ Skills & Technologies
+<!-- ==================== TECH STACK ==================== -->
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### 👨‍💻 Programming Languages
+<table>
+<tr>
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,c,kotlin" alt="Programming Languages">
+<td width="50%" align="center">
 
-<br><br>
+### 👨‍💻 Languages
 
-### 🎨 Frontend Development
+<img src="https://skillicons.dev/icons?i=python,java,javascript,c,kotlin&perline=5" />
 
-<img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind" alt="Frontend Development">
+</td>
 
-<br><br>
+<td width="50%" align="center">
 
-### ⚙️ Backend Development
+### 🎨 Frontend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend Development">
+<img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind&perline=5" />
 
-<br><br>
+</td>
 
-### 🗄️ Databases
+</tr>
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases">
+<tr>
 
-<br><br>
+<td width="50%" align="center">
+
+### ⚙️ Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&perline=4" />
+
+</td>
+
+<td width="50%" align="center">
 
 ### 🔧 Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,figma,androidstudio" alt="Tools and Platforms">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,figma,androidstudio&perline=7" />
 
-</div>
+</td>
 
-<br>
+</tr>
+</table>
 
 ### 🤖 AI, Machine Learning & Data
 
+<img src="https://img.shields.io/badge/Machine_Learning-102230?style=flat-square&logo=tensorflow&logoColor=FF6F00" />
+<img src="https://img.shields.io/badge/Scikit--learn-102230?style=flat-square&logo=scikitlearn&logoColor=F7931E" />
+<img src="https://img.shields.io/badge/XGBoost-102230?style=flat-square" />
+<img src="https://img.shields.io/badge/Pandas-102230?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-102230?style=flat-square&logo=numpy&logoColor=4DABCF" />
+<img src="https://img.shields.io/badge/RDKit-102230?style=flat-square" />
+<img src="https://img.shields.io/badge/PaDEL-102230?style=flat-square" />
+<img src="https://img.shields.io/badge/Jupyter-102230?style=flat-square&logo=jupyter&logoColor=F37626" />
+
+</div>
+
+---
+
+<!-- ==================== GITHUB ANALYTICS ==================== -->
+
+## 📊 GitHub Analytics
+
 <div align="center">
 
-`Machine Learning` • `Scikit-learn` • `XGBoost` • `Pandas` • `NumPy` • `Matplotlib` • `RDKit` • `PaDEL-Descriptor` • `Jupyter Notebook`
+<table>
+<tr>
+<td width="50%" align="center">
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JnanaranjanMajhi&theme=tokyonight"
+width="100%"
+alt="GitHub Statistics"
+/>
+
+</td>
+
+<td width="50%" align="center">
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JnanaranjanMajhi&theme=tokyonight"
+width="100%"
+alt="Most Used Languages"
+/>
+
+</td>
+</tr>
+</table>
+
+<img
+src="https://streak-stats.demolab.com?user=JnanaranjanMajhi&theme=tokyonight&hide_border=true&card_width=600"
+width="60%"
+alt="GitHub Contribution Streak"
+/>
 
 </div>
 
 ---
 
-<details>
+<!-- ==================== CONTRIBUTION GRAPH ==================== -->
 
-<summary><b>📊 Click to View My Detailed Skill Matrix</b></summary>
-
-<br>
-
-| Category                  | Technologies                              |
-| ------------------------- | ----------------------------------------- |
-| **Programming Languages** | Python, Java, JavaScript, C, Kotlin, SQL  |
-| **Frontend Development**  | React.js, HTML5, CSS3, Tailwind CSS, Vite |
-| **Backend Development**   | Node.js, Express.js, REST APIs            |
-| **Databases**             | MongoDB, MySQL                            |
-| **AI & Machine Learning** | Scikit-learn, XGBoost, Machine Learning   |
-| **Data Analysis**         | Pandas, NumPy, Matplotlib                 |
-| **Drug Discovery**        | RDKit, PaDEL-Descriptor, ChEMBL           |
-| **Mobile Development**    | Android Studio, Kotlin                    |
-| **Development Tools**     | Git, GitHub, VS Code, Postman             |
-| **Deployment**            | Vercel, Render                            |
-
-</details>
-
----
-
-
-<!-- ==================== LEARNING ==================== -->
-
-## 🌱 Currently Learning
-
-* 📌 Data Structures and Algorithms
-* ⚛️ Advanced React Development
-* ⚙️ Backend Architecture and REST APIs
-* 🧠 System Design Fundamentals
-* 🤖 Advanced Machine-Learning Techniques
-* ☁️ Cloud Deployment and DevOps Fundamentals
-
----
-
-<!-- ==================== ACHIEVEMENTS ==================== -->
-
-## 🏆 Achievements
-
-* 🏫 Built and deployed the full-stack **OAV School Management System**
-* 📊 Developed and deployed the AI-powered **GrowEasy LeadFlow AI** application
-* 🧬 Developed an ensemble machine-learning QSAR model for **GLP-1 drug discovery**
-* 🔐 Developed a cybersecurity anomaly-detection system using the **CICIDS 2017 dataset**
-* 📚 Completed the **MongoDB Developer's Toolkit** course by GeeksforGeeks
-* 🎶 Built a multi-threaded music-playback application using C
-* 📱 Developed an Android To-Do List application using Kotlin
-
----
-
-<!-- ==================== OPPORTUNITIES ==================== -->
-
-## 💼 Open to Opportunities
+# 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Software_Developer-Open_to_Work-2EA44F?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/Full--Stack_Developer-Open_to_Work-2EA44F?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/AI%2FML-Open_to_Work-2EA44F?style=for-the-badge">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JnanaranjanMajhi&theme=tokyo-night&hide_border=true&radius=12&area=true" width="100%" alt="Contribution Activity Graph">
 
 </div>
 
-<br>
-
-I am currently interested in:
-
-* 💻 Software Developer roles
-* 🌐 Full-Stack Developer roles
-* ⚛️ React Developer roles
-* 🤖 AI and Machine Learning opportunities
-* 🎓 Software Development internships
-* 🌍 Open-source collaborations
-
 ---
 
-<!-- ==================== CONTACT ==================== -->
+<!-- ==================== CONNECT ==================== -->
 
 # 🤝 Let's Connect
 
 <div align="center">
 
+### 💡 Turning ideas into impactful digital solutions through code.
+
+<br>
+
 <a href="mailto:jnanaranjanmajhi82@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Send_Me_a_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+<img src="https://img.shields.io/badge/Gmail-Send_a_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 <a href="https://www.linkedin.com/in/jnanaranjan-majhi-b8519626a">
-<img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="https://jnanaranjanmajhi.github.io/Portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-Explore_My_Work-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio">
-</a>
-
-<a href="https://github.com/JnanaranjanMajhi">
-<img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/Portfolio-Explore_My_Work-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white">
 </a>
 
 <br><br>
 
-### 💡 “Turning ideas into impactful digital solutions through code.”
-
-⭐ Explore my repositories and feel free to contribute or collaborate!
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+GitHub+profile!;Let's+connect+and+build+something+impactful!;Keep+learning%2C+keep+building%2C+keep+growing!">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&lines=Thanks+for+visiting+my+GitHub+profile!;Let's+connect+and+build+something+impactful!;Keep+learning%2C+keep+building%2C+keep+growing!" alt="Footer Animation">
 
 </div>
 
----
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:6C63FF,100:00C9FF&height=120&section=footer" width="100%">
 
 <div align="center">
 
