@@ -29,12 +29,6 @@ alt="Typing Animation"
 <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=JnanaranjanMajhi&label=Profile%20Views&color=2F80ED&style=for-the-badge" alt="Profile Views">
-
-</div>
-
 ---
 
 <!-- ==================== ABOUT ==================== -->
